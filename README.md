@@ -1,6 +1,6 @@
 # Sublime Text 3 Settings
 
-### Install Package Controll 
+### Install Package Control
 
 Step 1: Press Ctrl + ` or View/Show Console
 
